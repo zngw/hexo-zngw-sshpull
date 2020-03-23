@@ -1,6 +1,12 @@
 # hexo-zngw-sshpull
 hexo发布时，通过ssh连接远程服务器自动git pull
 
+## 安装
+
+```
+npm i hexo-zngw-sshpull
+```
+
 ## 在hexo目录下的_config.yml配置
 
 ```yml
