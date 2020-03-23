@@ -1,0 +1,23 @@
+{
+  "name": "hexo-zngw-sshpull",
+  "version": "1.0.0",
+  "description": "hexo发布时，通过ssh连接远程服务器自动git pull",
+  "main": "index.js",
+  "scripts": {
+    "test": "hexo发布时，通过ssh连接远程服务器自动git pull"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zngw/hexo-zngw-sshpull.git"
+  },
+  "keywords": [
+    "hexo发布时，通过ssh连接远程服务器自动git",
+    "pull"
+  ],
+  "author": "zngw",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zngw/hexo-zngw-sshpull/issues"
+  },
+  "homepage": "https://github.com/zngw/hexo-zngw-sshpull#readme"
+}

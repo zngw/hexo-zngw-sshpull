@@ -1,0 +1,1 @@
+hexo.extend.deployer.register('zngw-sshpull', require('./lib/sshpull'));
