@@ -1,6 +1,6 @@
 {
   "name": "hexo-zngw-sshpull",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "hexo发布时，通过ssh连接远程服务器自动git pull",
   "main": "index.js",
   "scripts": {
@@ -14,6 +14,9 @@
     "hexo发布时，通过ssh连接远程服务器自动git",
     "pull"
   ],
+  "dependencies": {
+    "ssh2": "^0.8.9"
+  },
   "author": "zngw",
   "license": "ISC",
   "bugs": {
